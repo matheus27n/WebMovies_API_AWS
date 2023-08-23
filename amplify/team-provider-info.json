@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-projetomovies-dev-183940-authRole",
+      "UnauthRoleArn": "arn:aws:iam::789583206278:role/amplify-projetomovies-dev-183940-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::789583206278:role/amplify-projetomovies-dev-183940-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-projetomovies-dev-183940-deployment",
+      "UnauthRoleName": "amplify-projetomovies-dev-183940-unauthRole",
+      "StackName": "amplify-projetomovies-dev-183940",
+      "StackId": "arn:aws:cloudformation:us-east-1:789583206278:stack/amplify-projetomovies-dev-183940/92426460-41fd-11ee-9359-0e022ba8ae8f",
+      "AmplifyAppId": "d34mekskk8qvj9"
+    },
+    "categories": {
+      "api": {
+        "projetomovies": {}
+      }
+    }
+  }
+}
